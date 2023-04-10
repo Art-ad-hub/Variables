@@ -10,19 +10,19 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            byte variableByte = 100;
-            sbyte variableSbyte = - 100;
-            short variableShort = 10000;
-            ushort variableusUshort = 0;
-            int whatYear = 2023;
-            uint age = 30;
-            long maxValue = 9223372036854775807;
-            ulong minMalue = 0;
-            float pi = 3.14f;
-            double variableDouble = 3.14;
+            byte speedСar = 50;
+            sbyte healthPlayer = 100;
+            short damage = 10;
+            ushort timer = 0;
+            int enemy = 100;
+            uint price = 30;
+            long gold = 9223372036854775807;
+            ulong money = 0;
+            float buy = 3.33f;
+            double sell = 6.66;
             char tilda = '~';
             string greeting = "Доброй ночи!";
-            bool likeTraining = true; 
+            bool training = true; 
 
         }
     }
